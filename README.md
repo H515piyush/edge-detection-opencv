@@ -87,10 +87,12 @@ plt.axis('off')
 
 
 ## Output
-<img width="522" height="507" alt="Screenshot 2026-10-29 104217" src="https://github.com/user-attachments/assets/f603f5a4-e0db-41e4-ade3-9d8db4aa034b" />
-<img width="458" height="518" alt="Screenshot 2026-10-29 104224" src="https://github.com/user-attachments/assets/742fea8e-56a1-47ac-8897-55ca32389d93" />
-<img width="472" height="538" alt="Screenshot 2026-10-29 104230" src="https://github.com/user-attachments/assets/691b5e26-ccdf-46ac-966a-f6aff26de57a" />
-<img width="447" height="513" alt="Screenshot 2026-10-29 104236" src="https://github.com/user-attachments/assets/96934379-f239-4f86-be17-4f6dfd25d559" />
+<img width="525" height="510" alt="Screenshot 2026-11-11 070217" src="https://github.com/user-attachments/assets/d4946cef-4d2f-4b40-911e-b53d03ab57f4" />
+<img width="575" height="512" alt="Screenshot 2026-11-11 070223" src="https://github.com/user-attachments/assets/af47028d-ddbb-46d9-b81a-c6f70231047f" />
+<img width="580" height="512" alt="Screenshot 2026-11-11 070232" src="https://github.com/user-attachments/assets/20175517-4a9f-4819-82d9-a12f26d69b50" />
+<img width="567" height="522" alt="Screenshot 2026-11-11 070239" src="https://github.com/user-attachments/assets/fb84b084-e9b8-4832-8227-f309224bbfc2" />
+
+
 
 
 
